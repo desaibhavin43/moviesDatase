@@ -10,4 +10,8 @@ The goal of movie database code is to depend minimum number of third party libra
  
  Device support: android phones as well as tablet. 
  
- The APK can be found above 
+ The APK can be found above.
+ 
+ Third party libraries (licenced with Apache 2.0) used are:
+     1. [Gson](https://github.com/google/gson)
+     2. [Glide](https://github.com/bumptech/glide) 
